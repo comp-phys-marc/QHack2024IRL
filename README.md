@@ -1,6 +1,6 @@
 # QHack2024IRL
 
-My submission to QHack2024 IRL Hackathon.
+My first-place submission to QHack2024 IRL Hackathon.
 
 In their 2010 paper, Cramer et. al. suggest that state tomography can be done efficiently (less than exponential timing in the system size) using unitary control and local measurements if the state in question is a Matrix Product State.
 
